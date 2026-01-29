@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "History of Blockchain",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "History of Blockchain Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Archive": {
+    "message": "Archive",
+    "description": "Navbar item with label Archive"
+  },
+  "item.label.Papers": {
+    "message": "Papers",
+    "description": "Navbar item with label Papers"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
