@@ -134,7 +134,7 @@ const config: Config = {
           items: [
             {
               label: 'Contribute',
-              href: 'https://github.com/ArmanPayandeh/history-blockchain/CONTRIBUTING.md',
+              href: 'https://github.com/ArmanPayandeh/history-blockchain/blob/main/CONTRIBUTING.md',
             },
           ],
         },
