@@ -44,7 +44,7 @@ function IntroSection() {
                 margin: '0 auto'
               }}>
                 <p>
-                  Hi, I'm Arman. I'm 16 years old. I don't really consider myself a student anymore—I haven't attended school regularly for some time now.
+                  Hi, I'm Arman. I'm 16 years old.
                 </p>
                 <p>
                   I'm deeply interested in cutting-edge technology, especially blockchain. To be honest, I don't particularly enjoy mathematics or traditional academic work. But I find it genuinely fascinating to examine and analyze academic papers—seeing how ideas evolve from early cryptography to modern innovations like zero-knowledge proofs feels like uncovering the hidden architecture of this field.
@@ -74,7 +74,7 @@ function IntroSection() {
                 flexWrap: 'wrap'
               }}>
                 <Link
-                  to="/archive"
+                  to="/archive/intro"
                   style={{
                     display: 'flex',
                     flexDirection: 'column',
@@ -100,7 +100,7 @@ function IntroSection() {
                 </Link>
 
                 <Link
-                  to="/docs/intro"
+                  to="/papers"
                   style={{
                     display: 'flex',
                     flexDirection: 'column',
