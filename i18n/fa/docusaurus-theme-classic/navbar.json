@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "تاریخچه بلاک‌چین",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "لوگوی تاریخچه بلاک‌چین",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Archive": {
+    "message": "آرشیو",
+    "description": "Navbar item with label Archive"
+  },
+  "item.label.Papers": {
+    "message": "مقالات",
+    "description": "Navbar item with label Papers"
+  },
+  "item.label.GitHub": {
+    "message": "گیت‌هاب",
+    "description": "Navbar item with label GitHub"
+  }
+}
